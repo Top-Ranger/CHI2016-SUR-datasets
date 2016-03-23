@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>504.truth.kml</name>
+	<open>1</open>
+	<Style id="Poly504">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0504</name>
+		<description><![CDATA[<img src="0504.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly504</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.225405484257232,48.46703857272224,0
+						9.225300891058689,48.46698473472466,0
+						9.225445394819834,48.466858808337804,0
+						9.225563750281342,48.4669039776212,0
+						9.225405484257232,48.46703857272224,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

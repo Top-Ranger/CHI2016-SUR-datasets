@@ -1,0 +1,3 @@
+Images: 96
+Tags: 128
+Unique tags: 21

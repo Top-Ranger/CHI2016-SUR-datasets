@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>532.truth.kml</name>
+	<open>1</open>
+	<Style id="Poly532">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0532</name>
+		<description><![CDATA[<img src="0532.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly532</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						7.99331673132921,53.183595955897246,0
+						7.993105731329208,53.183540397860526,0
+						7.992888337389815,53.18367067176419,0
+						7.992539867692845,53.18366492439443,0
+						7.991932443450421,53.183513576713594,0
+						7.99165750405648,53.18333157563061,0
+						7.991526428298905,53.18310551005208,0
+						7.991472079814055,53.18291009647317,0
+						7.991507246480722,53.18290051735327,0
+						7.991871701026177,53.18298672935532,0
+						7.992731685874663,53.183373723318546,0
+						7.993124913147389,53.18350591352568,0
+						7.993329519207995,53.183555724222686,0
+						7.99331673132921,53.183595955897246,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

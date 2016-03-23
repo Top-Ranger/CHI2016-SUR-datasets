@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>509.truth.kml</name>
+	<open>1</open>
+	<Style id="Poly509">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0509</name>
+		<description><![CDATA[<img src="0509.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly509</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.226937531093874,48.46209150903933,0
+						9.227064039156955,48.46200116647533,0
+						9.227719934807089,48.462438681110434,0
+						9.227692686916578,48.462492886200906,0
+						9.227721881084983,48.46250966395527,0
+						9.227645976247134,48.462565159564825,0
+						9.226937531093874,48.46209150903933,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Style id="Poly1">
+<LineStyle>
+<color>7f00ff00</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>afh0008</name>
+<description>
+<img src='afh0008.jpg' width = '400'/>
+</description>
+<styleUrl>#Poly1</styleUrl>
+<Polygon>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+7.6324126,51.9614878
+7.6323418,51.9613924
+7.63237,51.961374
+7.632521,51.9612849
+7.6325496,51.9612993
+7.6325849,51.9612706
+7.6326173,51.9612854
+7.6326397,51.9612917
+7.6327019,51.9612421
+7.6327687,51.9612603
+7.6327673,51.9612626
+7.6328163,51.9612749
+7.6327995,51.9612983
+7.6328035,51.9612995
+7.6327666,51.9613508
+7.6327302,51.9614008
+7.6327096,51.9613987
+7.6326867,51.9615074
+7.6324126,51.9614878
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>

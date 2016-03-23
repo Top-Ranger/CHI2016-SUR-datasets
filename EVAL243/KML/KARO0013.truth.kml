@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>0013.kml</name>
+	<Style id="Poly1">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Poly10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Poly11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Poly1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Poly11">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0013</name>
+		<description><![CDATA[<img src="Datasets/Dataset_246/KML/0013.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly10</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.69395936790457,52.39291228765949,0 9.693834145506239,52.39292962848115,0 9.693797871229478,52.39283272530368,0 9.694337546825409,52.39275950575466,0 9.694326817989349,52.39272840644122,0 9.694419877059959,52.39271753670589,0 9.694411136477461,52.39268062797832,0 9.694576906327628,52.3926348280422,0 9.694607260210075,52.39272417978487,0 9.694879353046416,52.39268748625857,0 9.694922268390654,52.39283479873855,0 9.694828391075134,52.39284625635531,0 9.694855213165283,52.39294937477196,0 9.694234525178775,52.39302241534478,0 9.694286711430596,52.39318009722809,0 9.694060126529614,52.39320451425828,0 9.69395936790457,52.39291228765949,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

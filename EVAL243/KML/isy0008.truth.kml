@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>isy0008.kml</name>
+	<Style id="Poly1">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Poly10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Poly1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Poly11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Poly11">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>isy0008</name>
+		<description><![CDATA[<img src="Datasets/Dataset_246/KML/isy0008.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly10</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						8.531837191043683,52.02914173138761,0 8.531480121379707,52.02882626810095,0 8.531153475474621,52.02839842614529,0 8.530743295643442,52.02800109145652,0 8.531134438837016,52.02781173842293,0 8.531619021310025,52.02822389155028,0 8.534790194562616,52.03060049072471,0 8.534222927224633,52.03104500203742,0 8.533818628162365,52.03075206382906,0 8.53387760254618,52.03070411897564,0 8.531837191043683,52.02914173138761,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

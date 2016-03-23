@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>false</open>
+    <Placemark>
+      <name>SURT-F004.truth</name>
+      <Polygon>
+        <extrude>true</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>10.887265,49.8929874
+10.8873081,49.8929904
+10.8874471,49.8929979
+10.8874805,49.8928833
+10.8872852,49.8928701
+10.887271,49.8929565
+10.887265,49.8929874</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

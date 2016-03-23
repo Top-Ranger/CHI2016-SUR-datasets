@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>0006.truth.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>0006 Herrenhäuser Gärten</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.700612704137884,52.39125341233014,0 9.698300200101242,52.3915368987214,0 9.69807111564262,52.39167218186787,0 9.697772633552075,52.39171020499288,0 9.697451169026756,52.39162723383532,0 9.697299774778458,52.39151617491903,0 9.697161742637562,52.39128139994869,0 9.696271128117589,52.39143175179591,0 9.694840723225415,52.39155998777455,0 9.69387196633271,52.39165316033436,0 9.693747796513144,52.39129343445197,0 9.694530352981829,52.39120289079807,0 9.694284893572771,52.3906376663646,0 9.694038012285638,52.39003909573224,0 9.693899404664016,52.38954485336858,0 9.693699006621097,52.3889561164021,0 9.69349497546111,52.38838949388659,0 9.693083437893705,52.38727108397178,0 9.692665262968559,52.38629588687795,0 9.692311814624786,52.38532567310554,0 9.692020178304992,52.38448076388907,0 9.694565840225453,52.38420285364271,0 9.69479746165513,52.38392616911285,0 9.695193032658562,52.38380107600403,0 9.695717535134813,52.38386764801123,0 9.696016313362911,52.38403583282516,0 9.698617103385717,52.38380184518041,0 9.69957703215467,52.38660166632372,0 9.700945803238026,52.39052912034823,0 9.701215955966433,52.39049089286209,0 9.701192390163744,52.39037677872491,0 9.701459523479311,52.39033829969059,0 9.701618706248938,52.39076270436871,0 9.700472533578644,52.39088226877479,0 9.700612704137884,52.39125341233014,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

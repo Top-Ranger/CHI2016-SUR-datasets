@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://earth.google.com/kml/2.1">
+		<Document>
+			<Style id="Poly1">
+				<LineStyle>
+					<color>7f00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7f00ff00</color>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>{TeamHtwkWH0009 12.37311 51.314373 access:dog no}</name>
+				<description>
+					<img src="TeamHtwkWH0009.jpg" width="400"></img>
+				</description>
+				<styleUrl>#Poly1</styleUrl>
+				<Polygon>
+					<altitudeMode>clampToGround</altitudeMode>
+					<extrude>1</extrude>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>12.37208020,51.31447790 12.37187390,51.31446590 12.37186780,51.31462200 12.37305770,51.31467450 12.37309550,51.31464660 12.37306400,51.31383650 12.37299520,51.31383710 12.37299630,51.31376520 12.37279140,51.31376960 12.37279020,51.31378510 12.37279390,51.31390400 12.37286880,51.31390280 12.37287390,51.31428010 12.37248900,51.31428490 12.37249020,51.31438600 12.37287140,51.31438120 12.37286950,51.31453650 12.37271910,51.31452900 12.37272130,51.31450640 12.37241290,51.31448640 12.37240430,51.31452830 12.37208180,51.31450930 12.37208020,51.31447790</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+	</kml>

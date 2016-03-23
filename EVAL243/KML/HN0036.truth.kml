@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Style id="Poly1">
+<LineStyle>
+<color>7f00ff00</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>HN0036</name>
+<description><![CDATA[<img src='HN0036.jpg' width='400'></img>]]></description>
+<styleUrl>#Poly1</styleUrl>
+<Polygon>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+8.35648000,51.68097530
+8.35620460,51.68108270
+8.35595180,51.68126390
+8.35588870,51.68133780
+8.35577260,51.68147350
+8.35573580,51.68151660
+8.35566720,51.68152680
+8.35526200,51.68212130
+8.35583560,51.68231140
+8.35669490,51.68261480
+8.35743060,51.68283310
+8.35960210,51.68344000
+8.36065220,51.68369160
+8.36227030,51.68403940
+8.36264270,51.68410000
+8.36363230,51.68421280
+8.36394580,51.68317430
+8.36367730,51.68308420
+8.36370880,51.68304290
+8.36396720,51.68242560
+8.36219560,51.68202560
+8.36096880,51.68177150
+8.35861880,51.68131710
+8.35699320,51.68098170
+8.35648000,51.68097530
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>

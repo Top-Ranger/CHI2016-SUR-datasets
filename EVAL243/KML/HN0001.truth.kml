@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HN0001.kml</name>
+	<Style id="Poly1">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Poly10">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Poly11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Poly1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Poly10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>HN0001</name>
+		<description><![CDATA[<img src='Datasets/Dataset_246/KML/HN0001.jpg' width='400'></img>]]></description>
+		<styleUrl>#Poly11</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						8.498306275319582,52.03736217779235,0 8.498263834871526,52.03732282489322,0 8.498168066418678,52.03736849987119,0 8.498197143959914,52.03739970491678,0 8.498013200778926,52.03747182660469,0 8.497918413628579,52.03737755348121,0 8.498070958657147,52.03731686814612,0 8.497891517234166,52.0371474322253,0 8.498058540398706,52.03708770437306,0 8.498228053959853,52.03726281972973,0 8.498389991703487,52.03720066657966,0 8.498481877687729,52.03728794004815,0 8.498306275319582,52.03736217779235,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

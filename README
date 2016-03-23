@@ -1,0 +1,60 @@
+CHI2016-SUR-datasets
+
+-------------------------------------------------------------------------------
+
+This repository contains the datasets used for training and evaluation of the
+SPtP algorithm [1] as presented in the paper 'Helping Computers Understand 
+Geographically-Bound Activity Restrictions' [2] by Soll et al.
+
+The dataset "TRAINING207" was collected by Marcus Soll, Philipp Naumann and 
+students of the university of Hasselt [3].
+
+The dataset "EVAL96" was collected by students of the university of 
+Hasselt [3].
+
+The dataset "EVAL102" was collected by Marcus Soll, Philipp Naumann and 
+students of the university of Hasselt [3].
+
+The dataset "EVAL243" was collected by the participants of the 
+InformatiCup 2015 [4].
+
+-------------------------------------------------------------------------------
+
+LICENSE:
+
+The database is free for academic use only. To be able to  keep track of who 
+uses it please send us an email with the following information:
+
+   * Your name
+   * Your research institute (name, city, country, web address if available)
+   * Some words on your research and how the database would be used in it
+   * How you heard of the database (colleague, Internet, etc.)
+   * Please state that you agree to the terms of use outlined above
+
+This is for us to keep track of where and how the database is employed.
+
+We also ask that you cite us in any publications that may stem from the use of
+this database.
+
+For citation, please cite the following paper [2]:
+Marcus Soll, Philipp Naumann Johannes Schöning, Pavel Samsonov & Brent Hecht:
+Helping Computers Understand Geographically-Bound Activity Restrictions.
+CHI 2016: Proceedings of the International Conference on Human Factors in 
+Computing Systems, 2016.
+
+-------------------------------------------------------------------------------
+
+For additional questions please contact [2]:
+
+Marcus Soll, Philipp Naumann,
+Johannes Schöning <http://www.johannesschoening.de/>, Pavel Samsonov, 
+Brent Hecht: Helping Computers Understand Geographically-Bound Activity 
+Restrictions. CHI 2016 <http://chi2016.acm.org/>: Proceedings of the 
+International Conference on Human Factors in Computing Systems, 2016.
+
+-------------------------------------------------------------------------------
+
+[1] https://github.com/Top-Ranger/SPtP
+[2] http://dx.doi.org/10.1145/2858036.2858053
+[3] http://www.uhasselt.be/en
+[4] http://informaticup.gi.de/startseite/rueckblickearchiv/informaticup-2015.html

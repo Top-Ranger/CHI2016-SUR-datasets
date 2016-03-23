@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>506.truth.kml</name>
+	<open>1</open>
+	<Style id="Poly506">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0506</name>
+		<description><![CDATA[<img src="0506.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly506</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.226217612870697,48.466360774738895,0
+						9.22625264587278,48.466287216279454,0
+						9.226330496988524,48.46630012128004,0
+						9.226351906045352,48.46623688674578,0
+						9.226441434828457,48.46625237276145,0
+						9.22646479016318,48.46619042867039,0
+						9.226630223784134,48.46621623871752,0
+						9.226659417952538,48.46615429458235,0
+						9.226832636685064,48.46618397615656,0
+						9.226801496238767,48.46625753476563,0
+						9.226861830853467,48.46626398727011,0
+						9.226766463236682,48.466502729359206,0
+						9.226577674281007,48.46646401450213,0
+						9.226571835447325,48.466479500448514,0
+						9.226529017333668,48.466473047971434,0
+						9.226546533834709,48.466422718622034,0
+						9.226217612870697,48.466360774738895,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>515.truth.kml</name>
+	<open>1</open>
+	<Style id="Poly515">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0515</name>
+		<description><![CDATA[<img src="0515.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly515</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.211194632268452,48.490763020836035,0
+						9.211435399777724,48.490586245933976,0
+						9.211623056807008,48.49068636630816,0
+						9.211475527695935,48.490770842720124,0
+						9.211440120709279,48.49075207019629,0
+						9.211330359050638,48.49082168493726,0
+						9.211194632268452,48.490763020836035,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

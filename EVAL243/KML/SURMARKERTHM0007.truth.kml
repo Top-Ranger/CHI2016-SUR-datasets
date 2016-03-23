@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SURMARKETFH1011.truth.kml</name>
+	<StyleMap id="Poly1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Poly10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Poly11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Poly10">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Poly11">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>1011</name>
+		<description><![CDATA[<img src="Datasets/Dataset_246/KML/1011.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly1</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						8.87093380422586,51.27265589626306,0 8.870939727063,51.27267106629222,0 8.870721058377642,51.27273169687952,0 8.870605895496011,51.27257040381385,0 8.870753199999999,51.27252339999999,0 8.870791450535885,51.2725146480409,0 8.870763644797453,51.27246193845798,0 8.870965502977125,51.27240821381658,0 8.870936370431629,51.27236743749013,0 8.870655412776067,51.2724506123697,0 8.870591604786476,51.27232899444928,0 8.87086660503217,51.27225212955216,0 8.870963938036447,51.27239650481137,0 8.871274053057769,51.2723146051708,0 8.871462986319305,51.27257945219944,0 8.871258244797948,51.27264321953975,0 8.87120278000409,51.27257733150972,0 8.87093380422586,51.27265589626306,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

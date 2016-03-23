@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SURT-F001.truth.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<PolyStyle>
+			<color>7f0eff42</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f0eff42</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SURT-F001.truth</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						10.8741490526978,49.90220922346617,0 10.87446345749102,49.9020008362606,0 10.87472707119427,49.90213639138563,0 10.87484530114516,49.90213299568077,0 10.87491534405019,49.90217781707268,0 10.87484832598869,49.9022259811857,0 10.87478710847737,49.90225533649466,0 10.87474119510107,49.9022721242626,0 10.87467805580148,49.90230823505726,0 10.8746282834248,49.90233348129767,0 10.87449532530835,49.9023631733978,0 10.87439397146141,49.90233352868439,0 10.87430528426926,49.90229717497799,0 10.8741490526978,49.90220922346617,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

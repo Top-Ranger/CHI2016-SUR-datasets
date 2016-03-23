@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HN0022.kml</name>
+	<StyleMap id="Poly1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Poly11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Poly10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Poly10">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Poly11">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>HN0022</name>
+		<description><![CDATA[<img src='Datasets/Dataset_246/KML/HN0022.jpg' width='400'></img>]]></description>
+		<styleUrl>#Poly1</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						8.344208500000001,51.67745280000001,0 8.3442758,51.6774601,0 8.344435000000001,51.6774936,0 8.3445816,51.6775327,0 8.3446941,51.6775672,0 8.3448443,51.6776252,0 8.3451326,51.6777128,0 8.3451326,51.6777128,0 8.3452041,51.6777546,0 8.3452311,51.67780149999999,0 8.345128600000001,51.6779655,0 8.345128600000001,51.6779655,0 8.344963999999999,51.6782228,0 8.344963999999999,51.6782228,0 8.3448996,51.67832740000001,0 8.3448996,51.67832740000001,0 8.343543800000001,51.6779994,0 8.343543800000001,51.6779994,0 8.343583807773724,51.67793862286532,0 8.343424817882013,51.67790930781922,0 8.343304486923614,51.67782120770864,0 8.343365297515478,51.67773565652335,0 8.343236299999999,51.67767069999999,0 8.343236299999999,51.67767069999999,0 8.3432782,51.677604,0 8.343317900000001,51.6775461,0 8.343317900000001,51.6775461,0 8.3433948,51.6774212,0 8.3436834,51.6774908,0 8.3437061,51.6774547,0 8.3437105,51.6774476,0 8.343746899999999,51.6774434,0 8.344155499999999,51.6775401,0 8.3441911,51.6774829,0 8.344208500000001,51.67745280000001,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

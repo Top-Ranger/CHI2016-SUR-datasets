@@ -1,0 +1,14 @@
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+<Placemark id="322242379">
+<name>
+AL0010</name>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+11.032550100000002,50.9733105 11.0328266,50.973397500000004 11.0328672,50.9733463 11.0325908,50.9732554 11.032550100000002,50.9733105</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</kml>

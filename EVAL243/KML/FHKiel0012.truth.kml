@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FHKiel0012.kml</name>
+	<StyleMap id="Poly1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Poly10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Poly11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Poly10">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Poly11">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FHKiel0012</name>
+		<description><![CDATA[<img src="Datasets/Dataset_246/KML/FHKiel0012.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly1</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						10.18041541021687,54.33241334239759,0 10.1808382256713,54.33236016573373,0 10.18104777896887,54.33232983039201,0 10.1812770607209,54.33227740361909,0 10.18132698940391,54.33243738361566,0 10.18115061583593,54.33247561078292,0 10.18140087527521,54.3324422061844,0 10.18150842042427,54.33261684182537,0 10.18122702036052,54.3326551586073,0 10.18123404410265,54.33267417176712,0 10.18106921406663,54.33269751525351,0 10.18108740478548,54.3327390857736,0 10.18093546855912,54.33274981459417,0 10.18091838593542,54.33273437194592,0 10.18061878458975,54.33284552528318,0 10.18050934264055,54.33268567534718,0 10.18080037302232,54.33259503534792,0 10.18083081562001,54.33255490432485,0 10.18048485750073,54.33258227549369,0 10.18041541021687,54.33241334239759,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

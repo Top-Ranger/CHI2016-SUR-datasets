@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>516.truth.kml</name>
+	<open>1</open>
+	<Style id="Poly516">
+		<LineStyle>
+			<color>7f00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>0516</name>
+		<description><![CDATA[<img src="0516.jpg" width="400"></img>]]></description>
+		<styleUrl>#Poly516</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						9.210427907257376,48.49220845156453,0
+						9.210551420757852,48.49207350108391,0
+						9.210716661792274,48.492084562612234,0
+						9.210800116860165,48.49192527637164,0
+						9.211170657361595,48.492027042638625,0
+						9.211020438239393,48.492321278739865,0
+						9.21093197586743,48.492405345883746,0
+						9.21085686630633,48.4924296810836,0
+						9.210447936473669,48.49230026193211,0
+						9.210427907257376,48.49220845156453,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
